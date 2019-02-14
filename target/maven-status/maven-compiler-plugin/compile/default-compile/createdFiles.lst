@@ -1,0 +1,3 @@
+springmvc/configuration/HelloWorldConfiguration.class
+springmvc/configuration/HelloWorldInitializer.class
+springmvc/controller/HelloWorldController.class
